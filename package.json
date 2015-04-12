@@ -1,0 +1,21 @@
+{
+  "name": "boneschildtheme_grunt",
+  "version": "0.0.1",
+  "description": "boneschildtheme_grunt main site",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soul's Soft Frontend Team",
+  "license": "Public Domain"
+}
